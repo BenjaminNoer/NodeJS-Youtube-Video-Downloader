@@ -1,7 +1,7 @@
 # NodeJS-Youtube-Video-Downloader
 
 
-Go to project directory
+Go to project directory in command prompt
 
 node code.js
 
